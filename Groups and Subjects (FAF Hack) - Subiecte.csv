@@ -1,0 +1,116 @@
+id,unitate_curs,teorie,practica,lab,TOTAL,anul,semestru
+1,AM1,30,30,0,,1,1
+2,AM2,30,15,0,,1,2
+3,ALGA,30,15,0,,1,1
+4,PC,30,30,30,,1,1
+5,PSA,30,15,15,,1,1
+6,Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional,30,0,0,,1,1
+7,SDA,30,15,0,,1,2
+8,CSA,30,15,0,,1,2
+9,GC,30,0,30,,1,2
+10,Grafica inginerească,15,0,30,,1,1
+11,Fizica,30,30,30,,1,1
+12,Mecanica Teoretică,30,0,30,,1,2
+13,MS,30,15,30,,1,2
+14,MD,30,15,30,,1,2
+15,Biologie și biochimie,45,0,30,,1,2
+16,Arhitectura calculatoarelor,30,15,30,,1,2
+17,Tehnologii Web,30,0,30,,1,2
+18,Programarea procedurală,30,0,30,,1,2
+19,Practica de inițiere,0,0,0,,1,2
+20,Criptografie,30,0,30,,1,2
+21,ALGA (FAF),30,15,0,,1,1
+22,PCAIT (FAF),0,0,0,Proiect 60,1,1
+23,MD (FAF),30,15,30,,1,1
+24,AM1 (FAF),30,30,0,,1,1
+25,EIA (FAF),30,0,0,,1,1
+26,PSA (FAF),30,15,15,,1,1
+27,PC (FAF),30,30,30,,1,1
+28,L. Engleza (FAF),0,30,0,,1,1
+29,ME (FAF),0,0,0,Proiect 60,1,2
+30,SA (FAF),30,30,30,,1,2
+31,AM2(FAF),30,30,0,,1,2
+32,MS(FAF),30,15,0,,1,2
+33,MN (FAF),30,15,0,,1,2
+34,SDA(FAF),30,15,30,,1,2
+35,CSA(FAF),30,15,0,,1,2
+36,L. Engleza2 (FAF),0,30,0,,1,2
+37,L. Română,0,30,0,,1,1
+38,L. Română 2,0,30,0,,1,2
+39,CDE,45,0,30,,2,3
+40,POO,30,15,30,,2,3
+41,MN,30,0,15,,2,3
+42,Analiza și sinteza dispozitivelor numerice,30,15,15,,2,3
+43,DPI,30,0,0,,2,3
+44,Bazele statului și dreptului,30,0,0,,2,3
+45,Filosofie și gândire inginerească,30,30,0,,2,3
+46,Interfețe de comunicare,30,0,30,,2,3
+47,Procese stochastice,30,15,0,,2,3
+48,Sensori și traductoare,30,0,30,,2,3
+49,Mecanica fină,30,0,15,,2,3
+50,Analiza și proiectarea algoritmilor,30,30,0,,2,3
+51,Implementarea algoritmilor folosind programarea structurală,0,0,0,Proiect 30,2,3
+52,Traductoare și măsurători,30,15,45,,2,3
+53,Fizica corpului solid,45,15,30,,2,3
+54,Optica medicală și echipamente optice,30,0,15,,2,3
+55,Materiale și componente în electronică,30,0,30,,2,4
+56,Anatomia și fiziologia umană 1,60,15,30,,2,3
+57,Anatomia și fiziologia umană 2,30,15,30,,2,4
+58,"Semnale, circuite și sisteme",30,15,30,,2,3
+59,Bazele tehnologiei electronice,30,0,30,,2,3
+60,Programarea interactivă,36,0,24,,2,3
+61,BD,36,15,24,,2,3
+62,Practica în producție,0,0,0,Proiect 240,2,3
+63,Tehnologii ale securității informaționale,30,0,30,,2,4
+64,Rețele de calculatoare,30,0,30,,2,4
+65,Tehnici avansate de programare,30,15,30,,2,4
+66,Analiza și modelarea sistemelor,30,0,30,,2,4
+67,Cercetări operaționale,30,0,15,,2,4
+68,Limbaje formale și compilatoare,30,15,15,,2,4
+69,Procesarea informației,15,30,0,,2,4
+70,Managementul bazelor de date,30,0,30,,2,4
+71,Învățarea automată,30,30,0,,2,4
+72,Lingvistica computațională,30,30,0,,2,4
+73,Limba străină 3,0,30,0,,2,3
+74,Arhitecuri de calculatoare,30,15,30,,2,4
+75,Tehnologii Web,30,0,30,,2,4
+76,Proiectarea cu dispozitive programabile,30,0,30,,2,4
+77,Proiectarea circuitelor numerice,30,0,30,,2,4
+78,Mașini electrice și acționări,45,0,30,,2,4
+79,Bazele roboticii și mecatronicii,30,0,30,,2,4
+80,Circuite integrate,45,15,30,,2,4
+81,Sisteme cu eventimente discrete,30,0,15,,2,4
+82,Teoria sistemelor automate,30,15,30,,2,4
+83,Sisteme de operare,30,0,30,,2,4
+84,Limbaje formale și automate finite,30,30,15,,2,4
+85,Modelarea și realizarea sistemelor utilizând tehnologii Web,0,0,0,Proiect 30,2,4
+86,Cadrul legal al securității informaționale,30,15,0,,2,4
+87,Măsuri electronice,30,0,30,,2,4
+88,Circuite integrate 1,45,15,30,,2,4
+89,Dispozitive micronanoelectronice,45,15,30,,2,4
+90,Dispozitive micro-optoelectronice,30,15,15,,2,4
+91,Dispozitive electronice în electronica aplicată,45,15,30,,2,4
+92,Arhitectura sistemelor de calcul,30,0,30,,2,4
+93,Proiectarea asistată în electronică,30,0,15,,2,4
+94,Programarea în electronică,30,15,30,,2,4
+95,Bazele transmiterii de date,30,0,15,,2,4
+96,Limbaje de descriere Hardware,30,0,30,,2,4
+97,Sisteme de comunicare și transmisie de date,30,0,15,,2,4
+98,Proiecarea asistată de calculator a dispozitivelor medicale,30,0,15,,2,4
+99,Biomateriale,30,0,30,,2,4
+100,BDA (FAF),0,0,0,Proiect 30,2,3
+101,POO (FAF),30,30,0,,2,3
+102,GC (FAF),30,30,0,,2,3
+103,BD (FAF),30,15,30,,2,3
+104,AMS (FAF),30,15,30,,2,3
+105,DPI (FAF),30,0,0,,2,3
+106,PT (FAF),0,0,0,,2,3
+107,Elaborarea limbajului specific domeniului,0,0,0,Proiect 120,2,4
+108,Analiza algoritmilor (FAF),30,0,30,,2,4
+109,Arhitecturi de calculatoare (FAF),30,0,30,,2,4
+110,Tehnologii Multimedia (FAF),30,0,45,,2,4
+111,Rețele de calculatoare (FAF),30,0,30,,2,4
+112,Limbaje formale și automate (FAF),30,0,45,,2,4
+113,Ed. Fizică3,0,30,0,,2,3
+114,Ed. Fizică4,0,30,0,,2,4
+115,Biofizica,30,0,30,,2,3
