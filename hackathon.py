@@ -19,7 +19,7 @@ def preprocess():
 
     merged_table = pd.merge(profesors, subjects,left_on='subject', right_on='id', how='left').drop('id_y',axis=1)
     merged_table = merged_table[merged_table['semestru'] == 1]
-    merged_table = merged_table.drop_duplicates(subset='unitate_curs')
+   
 
 
     def teachers():
@@ -83,11 +83,12 @@ def preprocess():
             group_names = [groups[groups['id']==x]['speciality'].values[0] for x in group_ids]
 
             for j in range(len(group_names)):
+                lecture_type = 'Lab' if prof['type']=='LAB' else 'Lectures'
                 activity=f"""
         <Activity>
             <Teacher>{prof['name']}</Teacher>
             <Subject>{lesson}</Subject>
-            <Activity_Tag>Lectures</Activity_Tag>
+            <Activity_Tag>{lecture_type}</Activity_Tag>
             <Students>{group_names[j]}</Students>
             <Duration>1</Duration>
             <Total_Duration>1</Total_Duration>

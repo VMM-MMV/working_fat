@@ -33,5 +33,5 @@ timetable += time_constarints()
 timetable += space_constraints()
 timetable += "</fet>"
 
-with open("work_pidar.fet", "w+") as f:
+with open("work_pidar.fet", "w+",encoding="UTF-8") as f:
     f.write(timetable)

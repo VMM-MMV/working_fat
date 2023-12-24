@@ -1,5 +1,5 @@
 import pandas as pd
-from prettytable import PrettyTable
+
 
 def time_constarints():
     profesors = pd.read_csv("Groups and Subjects (FAF Hack) - Profesori.csv")

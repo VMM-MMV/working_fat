@@ -117,10 +117,79 @@
                 <Name>L. Română</Name>
                 <Comments></Comments>
             </Subject>
+            <Subject>
+                <Name>AM1</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>ALGA</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>PC</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>PSA</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>Grafica inginerească</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>Fizica</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>ALGA (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>PCAIT (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>MD (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>AM1 (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>EIA (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>PSA (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>PC (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>L. Engleza (FAF)</Name>
+                <Comments></Comments>
+            </Subject>
+            <Subject>
+                <Name>L. Română</Name>
+                <Comments></Comments>
+            </Subject>
 </Subjects_List>
 <Activity_Tags_List>
     <Activity_Tag>
         <Name>Lectures</Name>
+        <Printable>true</Printable>
+        <Comments></Comments>
+    </Activity_Tag>
+    <Activity_Tag>
+        <Name>Lab</Name>
         <Printable>true</Printable>
         <Comments></Comments>
     </Activity_Tag>
@@ -248,6 +317,134 @@
             </Teacher>
             <Teacher>
                 <Name>Denver Arellano</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>L. Română</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Haley Hodges</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>AM1</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Elsie Estes</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>ALGA</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Hakeem Davenport</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>PC</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Adrianna Zimmerman</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>PSA</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Sergio Summers</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Victor Harmon</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>Grafica inginerească</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Maren Sparks</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>Fizica</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Meredith Bush</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>ALGA (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Tyson Horn</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>PCAIT (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Avah Rodriguez</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>MD (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Henry Silva</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>AM1 (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Lucia Medrano</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>EIA (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Arian Delarosa</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>PSA (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Iyla Mayo</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>PC (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Jericho Freeman</Name>
+                <Target_Number_of_Hours>0</Target_Number_of_Hours>
+                <Qualified_Subjects>
+                    <Qualified_Subject>L. Engleza (FAF)</Qualified_Subject>
+                </Qualified_Subjects>
+                <Comments></Comments>
+            </Teacher>
+            <Teacher>
+                <Name>Egypt Fletcher</Name>
                 <Target_Number_of_Hours>0</Target_Number_of_Hours>
                 <Qualified_Subjects>
                     <Qualified_Subject>L. Română</Qualified_Subject>
@@ -2927,6 +3124,2490 @@
             <Duration>1</Duration>
             <Total_Duration>1</Total_Duration>
             <Id>207</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>208</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>209</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>210</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>211</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>212</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>213</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>214</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>215</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>216</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>217</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>218</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>219</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SD-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>220</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SD-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>221</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>222</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>223</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>MN-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>224</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>RM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>225</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>226</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>227</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>228</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>229</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>230</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>231</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>232</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>233</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>234</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-236</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>235</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-237</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>236</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>237</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>238</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>239</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Haley Hodges</Teacher>
+            <Subject>AM1</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>240</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>241</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>242</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>243</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>244</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>245</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>246</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>247</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>248</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>249</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>250</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>251</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>252</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SD-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>253</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SD-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>254</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>255</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>256</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>MN-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>257</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>RM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>258</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>259</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>260</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>261</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>262</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>263</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>264</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>265</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>266</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>267</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-236</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>268</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-237</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>269</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>270</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>271</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>272</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Elsie Estes</Teacher>
+            <Subject>ALGA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>273</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>274</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>275</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>276</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>MN-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>277</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>RM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>278</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>279</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>280</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>281</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>282</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>283</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>284</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>285</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>286</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>287</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-236</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>288</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-237</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>289</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>290</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>291</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>292</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Hakeem Davenport</Teacher>
+            <Subject>PC</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>293</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>294</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>295</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>296</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>MN-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>297</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>RM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>298</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>299</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>300</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>301</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>302</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>303</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>304</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>305</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>306</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>307</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-236</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>308</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-237</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>309</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>310</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>311</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>312</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Adrianna Zimmerman</Teacher>
+            <Subject>PSA</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>313</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>314</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>315</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>316</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>317</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>318</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>319</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>320</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-236</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>321</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-237</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>322</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>323</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>324</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>325</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Sergio Summers</Teacher>
+            <Subject>Etica și integritatea academică/ Psihologie inginerească/ Comportament organizațional</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>326</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>327</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>328</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>329</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>330</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>331</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>332</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>333</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>334</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>335</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>MN-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>336</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>RM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>337</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>338</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>339</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>340</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>341</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>342</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>343</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>344</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>345</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>346</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-236</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>347</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-237</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>348</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>349</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>350</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>351</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Victor Harmon</Teacher>
+            <Subject>Grafica inginerească</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>352</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>353</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>354</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>355</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>356</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>357</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>358</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>359</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>360</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>361</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>MN-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>362</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>RM-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>363</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>364</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>365</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>366</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>367</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>368</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>369</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>370</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>371</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>372</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-236</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>373</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-237</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>374</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>375</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>376</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>377</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Maren Sparks</Teacher>
+            <Subject>Fizica</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FI-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>378</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Meredith Bush</Teacher>
+            <Subject>ALGA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>379</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Meredith Bush</Teacher>
+            <Subject>ALGA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>380</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Meredith Bush</Teacher>
+            <Subject>ALGA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>381</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Tyson Horn</Teacher>
+            <Subject>PCAIT (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>382</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Tyson Horn</Teacher>
+            <Subject>PCAIT (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>383</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Tyson Horn</Teacher>
+            <Subject>PCAIT (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>384</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Avah Rodriguez</Teacher>
+            <Subject>MD (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>385</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Avah Rodriguez</Teacher>
+            <Subject>MD (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>386</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Avah Rodriguez</Teacher>
+            <Subject>MD (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>387</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Henry Silva</Teacher>
+            <Subject>AM1 (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>388</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Henry Silva</Teacher>
+            <Subject>AM1 (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>389</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Henry Silva</Teacher>
+            <Subject>AM1 (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>390</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Lucia Medrano</Teacher>
+            <Subject>EIA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>391</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Lucia Medrano</Teacher>
+            <Subject>EIA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>392</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Lucia Medrano</Teacher>
+            <Subject>EIA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>393</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Arian Delarosa</Teacher>
+            <Subject>PSA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>394</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Arian Delarosa</Teacher>
+            <Subject>PSA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>395</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Arian Delarosa</Teacher>
+            <Subject>PSA (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>396</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Iyla Mayo</Teacher>
+            <Subject>PC (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>397</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Iyla Mayo</Teacher>
+            <Subject>PC (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>398</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Iyla Mayo</Teacher>
+            <Subject>PC (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>399</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Jericho Freeman</Teacher>
+            <Subject>L. Engleza (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-231</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>400</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Jericho Freeman</Teacher>
+            <Subject>L. Engleza (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>401</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Jericho Freeman</Teacher>
+            <Subject>L. Engleza (FAF)</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>FAF-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>402</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>AI-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>403</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>CR-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>404</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>EA/MN-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>405</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>406</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IA-235</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>407</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SD-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>408</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>IBM-232</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>409</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-233</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>410</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>SI-234</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>411</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-238</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>412</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-239</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>413</Id>
+            <Activity_Group_Id>0</Activity_Group_Id>
+            <Active>true</Active>
+            <Comments></Comments>
+        </Activity>
+        <Activity>
+            <Teacher>Egypt Fletcher</Teacher>
+            <Subject>L. Română</Subject>
+            <Activity_Tag>Lab</Activity_Tag>
+            <Students>TI-2310</Students>
+            <Duration>1</Duration>
+            <Total_Duration>1</Total_Duration>
+            <Id>414</Id>
             <Activity_Group_Id>0</Activity_Group_Id>
             <Active>true</Active>
             <Comments></Comments>

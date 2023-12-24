@@ -1,0 +1,6 @@
+This file contains the result (log) of last operation
+
+FET command line generation started on 12/24/23 8:15�AM
+
+Starting timetable generation...
+Generation successful
